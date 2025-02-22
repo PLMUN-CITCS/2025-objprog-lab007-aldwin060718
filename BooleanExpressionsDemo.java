@@ -20,3 +20,4 @@ System.out.println("Logical NOT of isHomeworkTiring: " + notTrue);
 System.out.println("Exclusive OR (isJavaFun ^ isHomeworkTiring): " + exclusiveOr);
     }
 }
+
